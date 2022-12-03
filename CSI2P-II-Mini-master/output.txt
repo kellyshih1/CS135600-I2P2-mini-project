@@ -1,0 +1,6 @@
+load r0 [0]
+load r1 [4]
+load r2 [8]
+store [0] r0
+store [4] r1
+store [8] r2
